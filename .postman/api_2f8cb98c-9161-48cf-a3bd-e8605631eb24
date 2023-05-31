@@ -9,6 +9,8 @@ id = 2f8cb98c-9161-48cf-a3bd-e8605631eb24
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"16377691-ac82238b-2091-4d9d-8051-f4216750173b","path":"Box_deals.json","metaData":{}}
+files[] = {"id":"16377691-3d26051b-20bb-4dd1-9e8e-4e469f215f97","path":"Change_password_negative.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
